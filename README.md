@@ -50,7 +50,7 @@ except Exception as e:
 finally:
     print("Closing watering system...") # Always runs
 
-	🛠️ Usage
+🛠️ Usage
 Requirements
 Python 3.10+
 
